@@ -22,7 +22,7 @@ React, Tailwind CSS, Axios, Recharts, React Router, Jest
 ## 🛠️ Run Locally
 
 ```bash
-git clone https://github.com/your-username/dashboard.git
+git clone https://github.com/stamat1s/dashboard.git
 cd dashboard
 npm install
 npm start
