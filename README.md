@@ -22,8 +22,8 @@ React, Tailwind CSS, Axios, Recharts, React Router, Jest
 ## 🛠️ Run Locally
 
 ```bash
-git clone https://github.com/stamat1s/dashboard.git
-cd dashboard
+git clone https://github.com/stamat1s/wellness-dashboard.git
+cd wellness-dashboard
 npm install
 npm start
 
