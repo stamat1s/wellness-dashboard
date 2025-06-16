@@ -16,7 +16,7 @@ export async function fetchMetrics(type, duration) {
 }
 
 export async function fetchTip() {
-  const res = await axios.get(`${API_URL}/tip`);
+  const res = await axios.get(`${API_URL}/tips`);
   console.log(res.data)
   return res.data;
 }

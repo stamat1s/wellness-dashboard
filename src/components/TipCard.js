@@ -6,7 +6,7 @@ export default function TipCard() {
 
   useEffect(() => {
     fetchTip()
-      .then(setTip)
+      .then((res) => setTip(res.tip))
       .catch(console.error);
   }, []);
 

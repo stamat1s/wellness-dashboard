@@ -2,7 +2,7 @@
 import React from 'react';
 import { useRoutes } from 'react-router-dom';
 import routes from './routes';
-import './index.css';  // This must match your CSS filename
+import './index.css'; 
 
 
 function AppRoutes() {
